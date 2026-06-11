@@ -4,11 +4,18 @@ Thanks for contributing to the InterAI Summer 2026 class repo.
 
 ## Add Your GitHub Handle
 
-1. Create a branch named `add-handle-your-github-handle`.
-2. Edit [CLASS_GITHUB_CATALOG.md](CLASS_GITHUB_CATALOG.md).
-3. Add one row for yourself.
-4. Open a pull request.
-5. Use the pull request template and briefly explain what you changed.
+1. Fork this repository to your own GitHub account.
+2. In your fork, create a branch named `add-handle-your-github-handle`.
+3. Edit [CLASS_GITHUB_CATALOG.md](CLASS_GITHUB_CATALOG.md).
+4. Add or correct one row for yourself.
+5. Open a pull request back to `yagaC64/InterAI_summer2026:main`.
+6. Use the pull request template and briefly explain what you changed.
+
+## Repository Access
+
+Students should contribute from forks. Do not request direct collaborator access unless the instructor has asked you to help maintain the repository.
+
+Direct collaborator access gives write permissions on this personal-account repository, so it is reserved for trusted maintainers.
 
 ## Keep Contributions Useful
 

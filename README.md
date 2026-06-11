@@ -16,9 +16,18 @@ Use it to:
 ## Start Here
 
 1. Open [CLASS_GITHUB_CATALOG.md](CLASS_GITHUB_CATALOG.md).
-2. Add your GitHub handle using the table format.
-3. Open a pull request with your change.
-4. After your pull request is reviewed or merged, update [SCOREBOARD.md](SCOREBOARD.md) if the class workflow asks you to.
+2. Fork this repository to your GitHub account.
+3. Add or update your GitHub handle using the table format.
+4. Open a pull request from your fork back to this repository.
+5. Join issues and pull request discussions to collaborate with classmates.
+
+After your pull request is reviewed or merged, update [SCOREBOARD.md](SCOREBOARD.md) if the class workflow asks you to.
+
+## Access Model
+
+Students do not need direct collaborator access to this repository. This is a public repo, so students can fork it, open issues, submit pull requests, and comment without being added as collaborators.
+
+See [ACCESS_MODEL.md](ACCESS_MODEL.md) for the class permission model and contribution workflow.
 
 ## Public Repo Notice
 
