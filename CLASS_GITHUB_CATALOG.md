@@ -18,7 +18,7 @@ Use only information you are comfortable sharing in a public repo.
 | Student 09 | `@ivannaest` | <https://github.com/ivannaest> | TBD | TBD | Submitted |
 | Student 10 | `@armandempr` | <https://github.com/armandempr> | TBD | TBD | Submitted |
 | Student 11 | `@karmanjuan-lang` | <https://github.com/karmanjuan-lang> | TBD | TBD | Submitted |
-
+| Student 12 | `@user1cit` | <https://github.com/user1cit> | TBD | TBD | Submitted (Alan De Leon) |
 ## Entry Format
 
 Copy this row and replace the values:
