@@ -1,0 +1,35 @@
+name: Score Review
+description: Ask maintainers to review a contribution score update.
+title: "Score review: @your-handle"
+labels:
+  - scoreboard
+body:
+  - type: input
+    id: github-handle
+    attributes:
+      label: GitHub handle
+      placeholder: "@example-handle"
+    validations:
+      required: true
+  - type: input
+    id: requested-points
+    attributes:
+      label: Requested points
+      placeholder: "+2"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Contribution evidence
+      description: Link to the issue, pull request, review, or class note that supports the score.
+      placeholder: "PR #12 added..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: This issue does not include private student data, secrets, or credentials.
+          required: true

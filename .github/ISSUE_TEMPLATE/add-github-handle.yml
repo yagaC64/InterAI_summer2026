@@ -1,0 +1,39 @@
+name: Add GitHub Handle
+description: Request help adding your GitHub handle to the class catalog.
+title: "Add GitHub handle: @your-handle"
+labels:
+  - catalog
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this issue if you need help adding your GitHub handle through a pull request.
+  - type: input
+    id: display-name
+    attributes:
+      label: Display name
+      description: Use the public name or nickname you want classmates to see.
+      placeholder: Example Student
+    validations:
+      required: true
+  - type: input
+    id: github-handle
+    attributes:
+      label: GitHub handle
+      description: Include the @ sign.
+      placeholder: "@example-handle"
+    validations:
+      required: true
+  - type: input
+    id: profile-link
+    attributes:
+      label: GitHub profile link
+      placeholder: "https://github.com/example-handle"
+    validations:
+      required: true
+  - type: textarea
+    id: interests
+    attributes:
+      label: Interests or skills
+      description: Optional public class collaboration context.
+      placeholder: Python, docs, testing, AI tools
