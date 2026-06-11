@@ -29,6 +29,17 @@ Students do not need direct collaborator access to this repository. This is a pu
 
 See [ACCESS_MODEL.md](ACCESS_MODEL.md) for the class permission model and contribution workflow.
 
+## Student Workflow
+
+Students should:
+
+1. Open the repo.
+2. Fork it to their own GitHub account.
+3. Edit their catalog row in their fork.
+4. Open a pull request back to `yagaC64/InterAI_summer2026:main`.
+5. Comment/review classmates' pull requests.
+6. Open issues for score reviews, fixes, or collaboration tasks.
+
 ## Public Repo Notice
 
 This is a public repository. Do not add private information.
