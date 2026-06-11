@@ -16,6 +16,8 @@ Use only information you are comfortable sharing in a public repo.
 | Student 07 | `@vallesjose` | <https://github.com/vallesjose> | TBD | TBD | Submitted repository: <https://github.com/vallesjose/Thisisapractice> |
 | Student 08 | `@luisrami96` | <https://github.com/luisrami96> | TBD | TBD | Submitted |
 | Student 09 | `@ivannaest` | <https://github.com/ivannaest> | TBD | TBD | Submitted |
+| Student 10 | `@armandempr` | <https://github.com/armandempr> | TBD | TBD | Submitted |
+| Student 11 | `@karmanjuan-lang` | <https://github.com/karmanjuan-lang> | TBD | TBD | Submitted |
 
 ## Entry Format
 
