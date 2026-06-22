@@ -9,7 +9,7 @@ Use only information you are comfortable sharing in a public repo.
 | Instructor / Repo Owner | `@yagaC64` | <https://github.com/yagaC64> | Course staff | Git, GitHub, AI systems, software delivery | Maintainer |
 | Student 01 | `@figueroahdzyahir-dev` | <https://github.com/figueroahdzyahir-dev> | TBD | TBD | Repos: [Test-1](https://github.com/figueroahdzyahir-dev/Test-1) |
 | Student 02 | `@malondraflores10-spec` | <https://github.com/malondraflores10-spec> | TBD | TBD | Repos: [sopa-de-letras-juego](https://github.com/malondraflores10-spec/sopa-de-letras-juego) |
-| Student 03 | `@Rffort` | <https://github.com/Rffort> | TBD | TBD | No public repo found yet |
+| Student 03 | `@Rffort` | <https://github.com/Rffort> | TBD | TBD | Repos: [Juego](https://github.com/Rffort/Juego) |
 | Student 04 | `@lillyarroyo13-stack` | <https://github.com/lillyarroyo13-stack> | TBD | TBD | Repos: [Pinball-Game](https://github.com/lillyarroyo13-stack/Pinball-Game) |
 | Student 05 | `@santosmiguel12` | <https://github.com/santosmiguel12> | TBD | TBD | Repos: [AI-summer-2026](https://github.com/santosmiguel12/AI-summer-2026)<br>[baseball-video-html](https://github.com/santosmiguel12/baseball-video-html) |
 | Student 06 | `@jbaez96` | <https://github.com/jbaez96> | TBD | TBD | Repos: [cloud-pipe-cadet](https://github.com/jbaez96/cloud-pipe-cadet) |
