@@ -16,7 +16,7 @@ Use only information you are comfortable sharing in a public repo.
 | Student 07 | `@vallesjose` | <https://github.com/vallesjose> | TBD | TBD | Repos: [Thisisapractice](https://github.com/vallesjose/Thisisapractice) |
 | Student 08 | `@luisrami96` | <https://github.com/luisrami96> | TBD | TBD | Repos: [prismatic-vault](https://github.com/luisrami96/prismatic-vault) |
 | Student 09 | `@ivannaest` | <https://github.com/ivannaest> | TBD | TBD | Repos: [pixel-court](https://github.com/ivannaest/pixel-court) |
-| Student 10 | `@armandempr` | <https://github.com/armandempr> | TBD | TBD | Repos: [City-in-Slow-Motion-webgame](https://github.com/armandempr/City-in-Slow-Motion-webgame) |
+| Student 10 | `@armandempr` | <https://github.com/armandempr> | TBD | TBD | Repos: [City-in-Slow-Motion-webgame](https://github.com/armandempr/City-in-Slow-Motion-webgame)<br>[pr-geography](https://github.com/armandempr/pr-geography) |
 | Student 11 | `@karmanjuan-lang` | <https://github.com/karmanjuan-lang> | TBD | TBD | Repos: [almacenrepositorio](https://github.com/karmanjuan-lang/almacenrepositorio) |
 | Student 12 | `@3lmery42an` | <https://github.com/3lmery42an> | TBD | TBD | Repos: [Duel-City.](https://github.com/3lmery42an/Duel-City.)<br>Site: [duel-city-skyline-blitz](https://duel-city-skyline-blitz.inter-summer-1031.chatgpt-team.site/) |
 | Student 13 | `@reylreyess` | <https://github.com/reylreyess> | TBD | TBD | Repos: [26-NBA-FINALS-G7-Game](https://github.com/reylreyess/26-NBA-FINALS-G7-Game) |
