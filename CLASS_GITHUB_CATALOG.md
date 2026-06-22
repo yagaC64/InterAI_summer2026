@@ -20,6 +20,7 @@ Use only information you are comfortable sharing in a public repo.
 | Student 11 | `@karmanjuan-lang` | <https://github.com/karmanjuan-lang> | TBD | TBD | Repos: [almacenrepositorio](https://github.com/karmanjuan-lang/almacenrepositorio) |
 | Student 12 | `@3lmery42an` | <https://github.com/3lmery42an> | TBD | TBD | Repos: [Duel-City.](https://github.com/3lmery42an/Duel-City.)<br>Site: [duel-city-skyline-blitz](https://duel-city-skyline-blitz.inter-summer-1031.chatgpt-team.site/) |
 | Student 13 | `@reylreyess` | <https://github.com/reylreyess> | TBD | TBD | Repos: [26-NBA-FINALS-G7-Game](https://github.com/reylreyess/26-NBA-FINALS-G7-Game) |
+| Student 14 | `@rjbc2002-design` | <https://github.com/rjbc2002-design> | TBD | TBD | Repos: [bunker-command](https://github.com/rjbc2002-design/bunker-command) |
 
 ## Entry Format
 
